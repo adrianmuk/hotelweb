@@ -1,0 +1,115 @@
+#page-wrapper{
+    /* background-color: rgb(55, 55, 58); */
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+nav ul {
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header{
+    position: ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    min-height: 75px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 20px;
+    width: 100%;
+}
+/* div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    } */
+    #header-img{
+        width: 50px;
+        height: 50px;
+        }
+    #nav-bar{
+        margin-top: 0%;
+        }
+    li{
+        list-style: none;
+        display: list-item;
+        }
+    nav ul {
+        width: 35vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        }
+    a{
+        text-decoration: none;
+        font-weight: bold;
+        }
+    #page-wrapper{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        }
+    .logo{
+        width: 60vw;
+        }
+    header{
+        position: fixed;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        top: 0;
+        min-height: 75px;
+        background-color: azure;
+        padding-top: opx;
+        padding-bottom: opx;
+        padding-right: 20px;
+        padding-left: 20px;
+        width: 100%;
+        }
+    form{
+        padding-top: 20px;
+        /* display: flex;
+        flex-direction: column;
+        justify-content: left; */
+        
+        }
+    body{
+        background: url();
+    }
+    div.transbox {
+        /* margin: 30px; */
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity: 0.5;
+        filter: alpha(opacity=60); /* For IE8 and earlier */
+    }
+    
+    button:hover{
+        box-shadow: 0 8px 16px 0 rgba(43, 99, 62, 0.2), 0 6px 20px 0 rgba(144, 233, 206, 0.19);
+    }
+    footer{
+        height: auto;
+        padding-bottom: 18px;
+        padding-top:18px;
+        background-color: #171718;
+        color: honeydew;
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .upper-footer{
+        font-family: Agency FB;
+    }
+    .lower-footer{
+        background-color: black;
+        height: 5px;
+    }
